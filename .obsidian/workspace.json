@@ -164,6 +164,11 @@
   },
   "active": "c148fd2fa9866447",
   "lastOpenFiles": [
+    "problem-solving/programmers/README.md",
+    "problem-solving/leetcode/README.md",
+    "problem-solving/baekjoon/README.md",
+    "problem-solving/rosalind/README.md",
+    "problem-solving/rosalind",
     "problem-solving/programmers/fruiterer/src/__pycache__/__init__.cpython-311.pyc",
     "problem-solving/programmers/fruiterer/src/__init__.py",
     "problem-solving/programmers/fruiterer/src/__pycache__/solution.cpython-311.pyc",
@@ -173,8 +178,6 @@
     "problem-solving/programmers/fruiterer/tests/test_solution.py",
     "problem-solving/programmers/fruiterer/tests/__pycache__/test.cpython-311-pytest-8.3.4.pyc",
     "problem-solving/programmers/fruiterer/tests/__pycache__",
-    "problem-solving/programmers/fruiterer/src/solution.py",
-    "problem-solving/programmers/fruiterer/src/best_solution.py",
     "README.md",
     "references/ai-tech-interview/README.md"
   ]
