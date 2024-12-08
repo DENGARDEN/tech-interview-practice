@@ -1,0 +1,49 @@
+pull_request_rules:
+  - name: Assign yourself and request reviews automatically
+    conditions:
+      - -merged
+      - -closed
+      - base=main
+    actions:
+      assign:
+        add_users:
+          - CoodingPenguin
+      request_reviews:
+        users:
+          - CoodingPenguin
+      label:
+        add:
+          - "💬 feedback"
+
+  - name: Automatic merge on approval
+    conditions:
+      - -closed
+      - -merged
+      - "#approved-reviews-by>=1"
+      - "#changes-requested-reviews-by=0"
+      - base=main
+    actions:
+      merge:
+        method: merge
+
+  - name: Add conflict label
+    conditions: 
+      - -closed
+      - -merged
+      - conflict
+    actions:
+      comment:
+        message: "@{{author}} Conflict 해결이 필요합니다!😥 cc. @CoodingPenguin"
+      label:
+        add:
+          - "❗ conflict"
+
+  - name: Remove conflict label
+    conditions:
+      - -closed
+      - -merged
+      - -conflict
+    actions:
+      label:
+        remove:
+          - "❗ conflict"

@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "e6b906a60165d4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "c68732901d270f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2009f968c08caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "problem-solving/programmers/fruiterer/problem.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "problem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fd6ab247490608d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e78f4ac53d901964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c148fd2fa9866447",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "163e947162b48841",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e5a8f64fb3c125b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0af6430868868b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "338f8db91bf4fcd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c994eab0c78cc165",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "references/ai-tech-interview/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "29ce5652245ef48a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "references/ai-tech-interview/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "766ef4c8e34b4585",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a02dc5d86509c766",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "references/ai-tech-interview/README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c148fd2fa9866447",
+  "lastOpenFiles": [
+    "problem-solving/programmers/fruiterer/src/__pycache__/__init__.cpython-311.pyc",
+    "problem-solving/programmers/fruiterer/src/__init__.py",
+    "problem-solving/programmers/fruiterer/src/__pycache__/solution.cpython-311.pyc",
+    "problem-solving/programmers/fruiterer/src/__pycache__/best_solution.cpython-311.pyc",
+    "problem-solving/programmers/fruiterer/src/__pycache__",
+    "problem-solving/programmers/fruiterer/tests/__pycache__/test_solution.cpython-311-pytest-8.3.4.pyc",
+    "problem-solving/programmers/fruiterer/tests/test_solution.py",
+    "problem-solving/programmers/fruiterer/tests/__pycache__/test.cpython-311-pytest-8.3.4.pyc",
+    "problem-solving/programmers/fruiterer/tests/__pycache__",
+    "problem-solving/programmers/fruiterer/src/solution.py",
+    "problem-solving/programmers/fruiterer/src/best_solution.py",
+    "README.md",
+    "references/ai-tech-interview/README.md"
+  ]
+}
