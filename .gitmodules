@@ -1,12 +1,12 @@
 [submodule "references/ai-tech-interview"]
 path = references/ai-tech-interview
-url = https://github.com/boost-devs/ai-tech-interview.git
+url = https://github.com/boost-devs/ai-tech-interview
 [submodule "references/Python"]
 path = references/Python
-url = https://github.com/TheAlgorithms/Python.git
+url = https://github.com/TheAlgorithms/Python
 [submodule "references/tech-interview-for-developer"]
 path = references/tech-interview-for-developer
-url = https://github.com/gyoogle/tech-interview-for-developer.git
+url = https://github.com/gyoogle/tech-interview-for-developer
 [submodule "ProjectTemplates"]
 path = ProjectTemplates
 url = https://github.com/DENGARDEN/ProjectTemplates
