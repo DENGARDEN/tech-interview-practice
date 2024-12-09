@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "problem-solving/programmers/Lv.0/floor/problem.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "problem"
             }
           }
         ]
@@ -164,24 +164,28 @@
   },
   "active": "8f2009f968c08caa",
   "lastOpenFiles": [
-    "problem-solving/programmers/Lv.5",
-    "problem-solving/programmers/Lv.4",
-    "problem-solving/programmers/Lv.3",
-    "problem-solving/programmers/Lv.2",
-    "problem-solving/programmers/Lv.0 copy 4",
-    "problem-solving/programmers/Lv.0 copy 3",
-    "problem-solving/programmers/Lv.0 copy 2",
-    "problem-solving/programmers/Lv.0 copy",
-    "problem-solving/programmers/Lv.0",
-    "problem-solving/programmers/Lv.0 copy/Lv.0/Lv.0/Lv.0",
-    "problem-solving/programmers/Lv.0 copy/Lv.0/Lv.0",
+    "ProjectTemplates/ps-template/tests/test_solution.py",
+    "ProjectTemplates/ps-template/src/solution.py",
+    "ProjectTemplates/ps-template/src/best_solution.py",
+    "ProjectTemplates/ps-template/src/__init__.py",
+    "ProjectTemplates/ps-template/tests",
+    "ProjectTemplates/ps-template/src",
+    "ProjectTemplates/ps-template/problem.md",
+    "ProjectTemplates/ps-template",
+    "ProjectTemplates",
+    "problem-solving/programmers/Lv.0/floor/src/__pycache__/solution.cpython-311.pyc",
+    "problem-solving/programmers/Lv.0/floor/src/__pycache__/__init__.cpython-311.pyc",
+    "problem-solving/programmers/Lv.0/floor/src/__pycache__",
+    "README.md",
+    "problem-solving/programmers/Lv.0/floor/problem.md",
+    "problem-solving/programmers/Lv.0/problem.md",
+    "templates/ps-template/problem.md",
     "problem-solving/programmers/fruiterer/problem.md",
     "problem-solving/programmers/Lv.1/fruiterer/problem.md",
     "problem-solving/programmers/README.md",
     "problem-solving/leetcode/README.md",
     "problem-solving/baekjoon/README.md",
     "problem-solving/rosalind/README.md",
-    "README.md",
     "references/ai-tech-interview/README.md"
   ]
 }
