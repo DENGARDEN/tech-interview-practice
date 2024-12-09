@@ -7,3 +7,6 @@ url = https://github.com/TheAlgorithms/Python.git
 [submodule "references/tech-interview-for-developer"]
 path = references/tech-interview-for-developer
 url = https://github.com/gyoogle/tech-interview-for-developer.git
+[submodule "ProjectTemplates"]
+path = ProjectTemplates
+url = https://github.com/DENGARDEN/ProjectTemplates
