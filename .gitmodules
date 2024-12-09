@@ -1,6 +1,6 @@
 [submodule "references/ai-tech-interview"]
 path = references/ai-tech-interview
-url = https://github.com/boost-devs/ai-tech-interview
+url = https://github.com/boost-devs/ai-tech-interview.git
 [submodule "references/Python"]
 path = references/Python
 url = https://github.com/TheAlgorithms/Python
